@@ -19,8 +19,8 @@ A lightweight, automated Python-based Telegram bot that fetches top daily news h
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/bharathkumar7733/dailyneswtele.git
-   cd dailyneswtele
+   git clone https://github.com/bharathkumar7733/daily-news-telegram-bot.git
+   cd daily-news-telegram-bot
    ```
 
 2. **Install dependencies**:
